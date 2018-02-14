@@ -1,0 +1,3 @@
+class BloodData{
+  //blood data
+}
