@@ -1,0 +1,14 @@
+1. For each of the following Java identifiers, note whether it is legal or illegal: 
+
+a. budgetApproval			Legal
+b. German Shepherd 			Ilegal, the spaces aren't allow
+c. static 				Ilegal, static is a reserved word
+d. HELLO 				Legal
+e. 212AreaCode 				Ilegal, it starts with a number
+f. qhu6TRfg 				Legal
+g. ssn# 				Ilegal, # can't be part of the identifier
+h. 4999 				Ilegal, it's a number
+i. 17 					Ilegal, it's a number
+j. Accounts_Receivable 			Legal
+k. 32MPG 				Ilegal
+l. rulesOfOrder 			Legal

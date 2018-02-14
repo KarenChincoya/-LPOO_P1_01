@@ -1,0 +1,12 @@
+1. Suppose that you have created a program with only the following variables: 
+int v = 4; 
+int w = 6; 
+double x = 2.2;
+
+Suppose that you also have a method with the following header: public static void calculate(int x, double y) Which of the following method calls are legal? 
+a. calculate(v, w);		Ilegal
+b. calculate(v, x); 		Legal
+c. calculate(x, y); 		Ilegal, y doesn't have a value
+d. calculate(18, x); 		Legal
+e. calculate(1.1, 2.2); 	Ilegal
+f. calculate(5, 7); 		Ilegal 

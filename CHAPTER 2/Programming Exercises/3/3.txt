@@ -1,0 +1,13 @@
+3. Choose the best data type for each of the following so that any reasonable value is accommodated but no memory storage is wasted. Give an example of a typical value that would be held by the variable, and explain why you chose the type you did. 
+
+							Data type	Eg of typical value	Why?
+
+a. the number of siblings you have 			Byte		2,3,..., <128		Las familias no tienen tantos hijos
+b. your final grade in this class			float		9.8, 8.6		La calificación se encuentra en el rango [0,10], con decimales 			
+c. the population of Earth 				long 		7500 millones		La población crece de manera exponencial
+d. the population of a U.S. county 			long		323 millones		Para asegurar la precisión
+e. thenumberofpassengersonabus 				short		30,60,128,256		El autobús con mayor capacidad puede albergar 256 pasajeros		
+f. one player’s score in a Scrabble game		short 		50,100,300		El récord mundial es de 325 puntos 		
+g. one team’s score in a Major League Baseball game 	short		52,63,89,186		De acuerdo con los puntajes máximo obtenidos históricamente
+h. the year an historical event occurred		short		1997, 2000, 20018	El rango comtempla hasta el 32,767 
+i. the number of legs on an animal			short		2,3,4,100,750		Considerando los animales con más patas en el mundo.

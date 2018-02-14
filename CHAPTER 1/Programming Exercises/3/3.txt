@@ -1,0 +1,5 @@
+3. Name at least three objects that are instances of each of the following classes: 
+
+a. Song:		StairwayToHeaven, Chains, AllMyLoving.
+b. BaseballTeam:	LosAngelesLakers, OklahomaCityThunder, MemphisGizzlies.
+c. Playwright:		EdgarAllanPoe, GabrielGarciaMarquez, JaneAusten.

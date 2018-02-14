@@ -1,0 +1,12 @@
+2. What is the value of each of the following Boolean expressions? 
+
+a. 5 < 8 		True
+b. 4 <= 9 		True
+c. 3 == 4 		False
+d. 12 >= 12 		True
+e. 3 + 4 == 8 		False
+f. 7 < 9 – 2 		False
+g. 5 != 5 		False
+h. 15 != 3 * 5 		False
+i. 9 != –9 		True
+j. 3 + 5 * 2 == 16	False

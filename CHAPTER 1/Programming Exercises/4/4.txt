@@ -1,0 +1,5 @@
+4. Name at least three classes to which each of these objects might belong: 
+
+a. myRedSweater:	Clothe, Sweater, custome.   
+b. londonEngland: 	City, Place, TouristDestiny.	
+c. thursdaysDinner:	Event, Meeting, Date. 
